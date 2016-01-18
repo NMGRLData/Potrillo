@@ -1,0 +1,82 @@
+{
+    "aliquot": 1, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "99.30 mg", 
+    "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
+    "detectors": {
+        "AX": {
+            "deflection": 120.0, 
+            "gain": null
+        }, 
+        "CDD": {
+            "deflection": 130.0, 
+            "gain": null
+        }, 
+        "H1": {
+            "deflection": 0.0, 
+            "gain": null
+        }, 
+        "H2": {
+            "deflection": 200.0, 
+            "gain": null
+        }, 
+        "L1": {
+            "deflection": 200.0, 
+            "gain": null
+        }, 
+        "L2": {
+            "deflection": 420.0, 
+            "gain": null
+        }
+    }, 
+    "extraction": "", 
+    "identifier": "63895", 
+    "increment": null, 
+    "irradiation": "NM-278", 
+    "irradiation_level": "H", 
+    "irradiation_position": 3, 
+    "isotopes": {
+        "Ar36": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "obama", 
+    "material": "Groundmass Concentrate", 
+    "measurement": "", 
+    "project": "Potrillo", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Potrillo", 
+    "sample": "NMPV-21", 
+    "spec_sha": "7e844deec9697c69c2864e6c8b0d64196a4a1f05", 
+    "timestamp": "2015-11-19T03:27:09", 
+    "username": "root", 
+    "uuid": "35f9639a-b095-4b8d-ab29-0d13b32833f6"
+}
