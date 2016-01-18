@@ -2,40 +2,40 @@
     "aliquot": 1, 
     "analysis_type": "unknown", 
     "collection_version": "0.1:0.1", 
-    "comment": "99.30 mg", 
+    "comment": "95.88 mg", 
     "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
     "detectors": {
         "AX": {
-            "deflection": 120.0, 
+            "deflection": null, 
             "gain": null
         }, 
         "CDD": {
-            "deflection": 130.0, 
+            "deflection": null, 
             "gain": null
         }, 
         "H1": {
-            "deflection": 0.0, 
+            "deflection": null, 
             "gain": null
         }, 
         "H2": {
-            "deflection": 200.0, 
+            "deflection": null, 
             "gain": null
         }, 
         "L1": {
-            "deflection": 200.0, 
+            "deflection": null, 
             "gain": null
         }, 
         "L2": {
-            "deflection": 420.0, 
+            "deflection": null, 
             "gain": null
         }
     }, 
     "extraction": "", 
-    "identifier": "63894", 
-    "increment": null, 
-    "irradiation": "NM-278", 
-    "irradiation_level": "H", 
-    "irradiation_position": 2, 
+    "identifier": "63080", 
+    "increment": 0, 
+    "irradiation": "NM-269", 
+    "irradiation_level": "B", 
+    "irradiation_position": 4, 
     "isotopes": {
         "Ar36": {
             "classification": null, 
@@ -69,14 +69,14 @@
         }
     }, 
     "mass_spectrometer": "obama", 
-    "material": "Groundmass Concentrate", 
+    "material": "gm", 
     "measurement": "", 
     "project": "Potrillo", 
     "queue_conditionals_name": "", 
     "repository_identifier": "Potrillo", 
-    "sample": "NMPV-20", 
-    "spec_sha": "7e844deec9697c69c2864e6c8b0d64196a4a1f05", 
-    "timestamp": "2015-11-18T22:46:40", 
-    "username": "root", 
-    "uuid": "b551d264-b704-43c5-bdc0-a0b6a696398c"
+    "sample": "NMPV-01C", 
+    "spec_sha": "60248bf9da67b92300dde8348586c4b7bee665c9", 
+    "timestamp": "2014-10-14T09:23:43", 
+    "username": "MZimmerer", 
+    "uuid": "c5750ea9-70be-4739-9556-4c4545ebf060"
 }

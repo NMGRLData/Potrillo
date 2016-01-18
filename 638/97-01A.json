@@ -2,7 +2,7 @@
     "aliquot": 1, 
     "analysis_type": "unknown", 
     "collection_version": "0.1:0.1", 
-    "comment": "99.30 mg", 
+    "comment": "111.29 mg", 
     "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
     "detectors": {
         "AX": {
@@ -31,11 +31,11 @@
         }
     }, 
     "extraction": "", 
-    "identifier": "63893", 
-    "increment": null, 
+    "identifier": "63897", 
+    "increment": 0, 
     "irradiation": "NM-278", 
     "irradiation_level": "H", 
-    "irradiation_position": 1, 
+    "irradiation_position": 5, 
     "isotopes": {
         "Ar36": {
             "classification": null, 
@@ -74,9 +74,9 @@
     "project": "Potrillo", 
     "queue_conditionals_name": "", 
     "repository_identifier": "Potrillo", 
-    "sample": "NMPV-19", 
+    "sample": "NMPV-23", 
     "spec_sha": "7e844deec9697c69c2864e6c8b0d64196a4a1f05", 
-    "timestamp": "2015-11-18T18:06:18", 
+    "timestamp": "2015-11-20T23:23:51", 
     "username": "root", 
-    "uuid": "99d356d7-bb46-45b8-8011-bf580024a280"
+    "uuid": "9f9344ad-1967-4a55-9000-49022583e5bd"
 }

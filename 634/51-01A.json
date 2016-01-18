@@ -1,41 +1,41 @@
 {
-    "aliquot": 2, 
+    "aliquot": 1, 
     "analysis_type": "unknown", 
     "collection_version": "0.1:0.1", 
-    "comment": "69.28 mg", 
+    "comment": "136.46 mg", 
     "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
     "detectors": {
         "AX": {
-            "deflection": 120.0, 
+            "deflection": null, 
             "gain": null
         }, 
         "CDD": {
-            "deflection": 130.0, 
+            "deflection": null, 
             "gain": null
         }, 
         "H1": {
-            "deflection": 0.0, 
+            "deflection": null, 
             "gain": null
         }, 
         "H2": {
-            "deflection": 200.0, 
+            "deflection": null, 
             "gain": null
         }, 
         "L1": {
-            "deflection": 200.0, 
+            "deflection": null, 
             "gain": null
         }, 
         "L2": {
-            "deflection": 420.0, 
+            "deflection": null, 
             "gain": null
         }
     }, 
     "extraction": "", 
-    "identifier": "63886", 
-    "increment": null, 
-    "irradiation": "NM-278", 
-    "irradiation_level": "F", 
-    "irradiation_position": 6, 
+    "identifier": "63451", 
+    "increment": 0, 
+    "irradiation": "NM-274", 
+    "irradiation_level": "D", 
+    "irradiation_position": 3, 
     "isotopes": {
         "Ar36": {
             "classification": null, 
@@ -69,14 +69,14 @@
         }
     }, 
     "mass_spectrometer": "obama", 
-    "material": "Groundmass Concentrate", 
+    "material": "gmc", 
     "measurement": "", 
     "project": "Potrillo", 
     "queue_conditionals_name": "", 
     "repository_identifier": "Potrillo", 
-    "sample": "NMPV-07", 
-    "spec_sha": "7e844deec9697c69c2864e6c8b0d64196a4a1f05", 
-    "timestamp": "2015-11-12T19:21:50", 
-    "username": "root", 
-    "uuid": "85a9f01c-7d81-499b-bb1a-7f9a38f29d54"
+    "sample": "NMPV-14", 
+    "spec_sha": "60248bf9da67b92300dde8348586c4b7bee665c9", 
+    "timestamp": "2015-02-18T17:41:24", 
+    "username": "MHeizler", 
+    "uuid": "54abdae5-1026-4b01-b23b-5afd32a303cc"
 }
